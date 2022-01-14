@@ -6,13 +6,13 @@
 
 ## Descrição do Projeto
 
-<p align="center">Esse é um projeto de jogo criado para disciplina SSC0511 - Organização de Computadores Digitais, ministrado por Eduardo do Valle Simoes no qual temos que desenvolver uma aplicação em Assembly.</p>
+<p align="center">Esse é um projeto de jogo criado para disciplina SSC0511 - Organização de Computadores Digitais, ministrado por Eduardo do Valle Simões no qual temos que desenvolver uma aplicação em Assembly.</p>
 
 <p align="center"><B>INTEGRANTES</B><br/>
 Eduardo Costa Miranda Azevedo - 12677151<br/>
 Gustavo de Oliveira Martins - 12625531<br/>
 Ivan Barbosa Pinheiro - 9050552<br/>
-Raquel de Jesus Santos Valadao - 12674022</p>
+Raquel de Jesus Santos Valadão - 12674022</p>
 
 
 ## Funcionalidades
@@ -44,4 +44,12 @@ Raquel de Jesus Santos Valadao - 12674022</p>
 
 ## Vídeo Jogando
 
-[Tutorial - Como usar a aplicação](https://youtu.be/vvJzQRh8cuU)
+https://drive.google.com/file/d/1Z2DuZ6Wwo4qPiyfjoNMLYbHeOyWbu4H4/view?usp=sharing
+
+## Ferramentas
+
+Para instalar o simulador siga o passo a passo do professor Simões
+https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0511-Organizacao-de-Computadores-Digitais
+
+As telas da aplicação foram feitas com um montador de tela desenvolvido durante a criação do jogo para auxilio do mesmo
+https://github.com/GustavoSelhorstMarconi/Create-Screens-in-Assembly-with-python

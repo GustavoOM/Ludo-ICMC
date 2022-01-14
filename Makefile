@@ -11,4 +11,4 @@ zip:
 	@zip -r $(PROGRAMNAME).zip * 
 
 dev:
-	./montador $(PROGRAMNAME).asm $(PROGRAMNAME).mif && ./sim $(PROGRAMNAME).mif $(CHARMAP).mif
+	clear && ./montador $(PROGRAMNAME).asm $(PROGRAMNAME).mif && ./sim $(PROGRAMNAME).mif $(CHARMAP).mif
