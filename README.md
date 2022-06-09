@@ -23,7 +23,7 @@ Raquel de Jesus Santos Valadão - 12674022</p>
 - [x] Andar
 - [ ] Matar
 - [x] Ganhar
-- [ ] Tirar 10 com o simões
+- [x] Tirar 10 com o simões
 
 ## Aplicação
 
